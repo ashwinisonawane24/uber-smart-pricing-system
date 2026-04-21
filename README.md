@@ -1,7 +1,7 @@
 # 🚗 Uber Smart Pricing & Demand System
 
 ## 🌐 Live App
-👉 [https://uber-smart-pricing-system-9qrjyy8tnjftt97yabbvl8.streamlit.app/](your streamlit URL)
+👉 [https://uber-smart-pricing-system-9qrjyy8tnjftt97yabbvl8.streamlit.app/]
 
 ## 📌 Business Problem
 Uber loses revenue daily by charging
@@ -51,4 +51,4 @@ Power BI | Streamlit | GitHub
 
 ## 👤 Author
 Ashwini Sonawane
-[www.linkedin.com/in/ashwini-sonawane-3294aa196](your linkedin URL)
+[www.linkedin.com/in/ashwini-sonawane-3294aa196]
