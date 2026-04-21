@@ -16,9 +16,9 @@ st.set_page_config(
 # ================================
 @st.cache_resource
 def load_models():
-    with open("demand_model_small.pkl", "rb") as f:
+    with open("demand_model_tiny.pkl", "rb") as f:
         demand_model = pickle.load(f)
-    with open("fare_model_small.pkl", "rb") as f:
+    with open("fare_model_tiny.pkl", "rb") as f:
         fare_model = pickle.load(f)
     return demand_model, fare_model
 
