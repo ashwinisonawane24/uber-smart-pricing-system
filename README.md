@@ -6,7 +6,7 @@
 ## 📌 Business Problem
 Uber loses revenue daily by charging
 the same price whether 10 or 500 people
-need a ride — leaving serious money
+need a ride - leaving serious money
 on the table.
 
 ## 🎯 Key Findings
